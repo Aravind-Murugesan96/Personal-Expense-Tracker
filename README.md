@@ -10,12 +10,10 @@ A command-line Python application to track personal expenses, manage a monthly b
 - Save and load expense records.
 
 ## How to Run
-1. Install Python
-2. Save `personal_expense_tracker.py`.
-3. Run:
-   python personal_expense_tracker.py
-
-4. Use the menu to:
+Install Python 3.x and Jupyter Notebook (or run in Google Colab).
+Open Personal Expense Tracker.ipynb.
+Run all cells in order.
+Follow the prompts in the interactive menu to:
    - Add expenses
    - View expenses
    - Track budget
