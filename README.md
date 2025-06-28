@@ -1,5 +1,6 @@
 # 1. add an expesnse
 
+
 import csv
 def add_expense(expenses):
     date = input("Enter the date in (YYYY-MM-DD) format: ")
