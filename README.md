@@ -2,12 +2,10 @@
 
 import csv
 def add_expense(expenses):
-    
     date = input("Enter the date in (YYYY-MM-DD) format: ")
     category = input("Enter the category (e.g. Travel, shopping): ")
     amount = float(input("Enter the amount: "))
     description = input("Enter a brief description: ")
-    
     expenses.append({
         "date": date,
         "category": category,
